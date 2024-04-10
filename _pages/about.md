@@ -10,11 +10,12 @@ redirect_from:
 
 📚 My research interests primarily lie in machine learning and computer vision, with recent works focusing on:
 
-Face recognition
-Face super-resolution
-Head pose estimation
-Dataset distillation
-Functional and structural age-related human brain changes
+* Face recognition
+* Face super-resolution
+* Head pose estimation
+* Dataset distillation
+* Functional and structural age-related human brain changes
+
 📽️ I am keen on applying my experience in the field of health science. I am also passionate about assisting others on their journey in the world of Machine Learning and academia.
 
 News
