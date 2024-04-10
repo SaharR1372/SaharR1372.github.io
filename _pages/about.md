@@ -17,6 +17,7 @@ redirect_from:
 * Functional and structural age-related human brain changes
 
 📈 🌱 I am eager to apply my experience in the field of health science and am actively seeking a research internship where I can learn, gain insights, and further enhance my skills.
+
 👥 I am also passionate about assisting others on their journey in the world of Machine Learning and academia.
 
 News
