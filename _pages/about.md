@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-👨🏻‍💻 I'm a third-year PhD student in the Department of Computer Science and Electrical Engineering at West Virginia University, under the supervision of Professor Nasrabadi.
+👩‍💻 I'm a third-year PhD student in the [Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, under the supervision of [Professor Nasrabadi](https://nassernasrabadi.faculty.wvu.edu/). 
 
-📚 My research interests primarily lie in machine learning and computer vision, with recent works focusing on:
+📚 🔬 💡 My research interests primarily lie in machine learning and computer vision, with recent works focusing on:
 
 * Face recognition
 * Face super-resolution
@@ -16,7 +16,8 @@ redirect_from:
 * Dataset distillation
 * Functional and structural age-related human brain changes
 
-📽️ I am keen on applying my experience in the field of health science. I am also passionate about assisting others on their journey in the world of Machine Learning and academia.
+📈 🌱 I am eager to apply my experience in the field of health science and am actively seeking a research internship where I can learn, gain insights, and further enhance my skills.
+👥 I am also passionate about assisting others on their journey in the world of Machine Learning and academia.
 
 News
 ======
