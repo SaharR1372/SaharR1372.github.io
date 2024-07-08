@@ -10,10 +10,11 @@ redirect_from:
 
 📚 🔬 💡 My research interests primarily lie in machine learning and computer vision, with recent works focusing on:
 
+* Representation learning
 * Face recognition
+* Dataset distillation
 * Face super-resolution
 * Head pose estimation
-* Dataset distillation
 * Functional and structural age-related human brain changes
 
 📈 🌱 I am eager to apply my experience in the real-worlds problems and am actively seeking an internship where I can learn, gain insights, and further enhance my skills.
@@ -22,6 +23,7 @@ redirect_from:
 
 News
 ======
+- **Jul 1, 2024:** One paper accepted at ECCV-2024.
 - **Feb 27, 2024:** One paper accepted at CVPR-2024.
 - **Feb 15, 2023:** One paper accepted at IEEE Access
 - **Aug 15, 2022:** One paper accepted at WACV-2023.
