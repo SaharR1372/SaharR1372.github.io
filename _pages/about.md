@@ -23,8 +23,8 @@ redirect_from:
 
 News
 ======
-- **Jul 1, 2024:** One paper accepted at ECCV-2024.
-- **Feb 27, 2024:** One paper accepted at CVPR-2024.
+- **Jul 1, 2024:** One paper accepted at ECCV-2024. 
+- **Feb 27, 2024:** One paper accepted at CVPR-2024; [paper](https://arxiv.org/abs/2403.16937), [Code](https://github.com/msed-Ebrahimi/DL2PA_CVPR24).
 - **Feb 15, 2023:** One paper accepted at IEEE Access
 - **Aug 15, 2022:** One paper accepted at WACV-2023.
 
