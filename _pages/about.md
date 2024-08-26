@@ -11,8 +11,9 @@ redirect_from:
 📚 🔬 💡 My research lies at the intersection of **machine learning** and **computer vision**, with a particular focus on:
 
 * Deep Representation Learning
-* Facial Recognition and Biometrics
-* Data Efficiency and Distillation
+* Generative models
+* Face Recognition 
+* Dataset Distillation
 
 📈 🌱 I am eager to apply my experience in the real-worlds problems and am actively seeking an internship where I can learn, gain insights, and further enhance my skills.
 
