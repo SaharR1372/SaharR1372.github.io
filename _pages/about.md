@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-👩‍💻 I'm a third-year PhD student in the [Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, under the supervision of [Professor Nasrabadi](https://nassernasrabadi.faculty.wvu.edu/). 
+👩‍💻 I'm a forth-year PhD student in the [Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, under the supervision of [Professor Nasrabadi](https://nassernasrabadi.faculty.wvu.edu/). 
 
 📚 🔬 💡 My research lies at the intersection of **machine learning** and **computer vision**, with a particular focus on:
 
