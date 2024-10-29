@@ -21,6 +21,7 @@ redirect_from:
 
 Research Highlights
 ======
+- **October 28, 2024:** One paper accepted at WACV-2025.
 - **July 1, 2024:** One paper accepted at ECCV-2024. [Read the paper](https://arxiv.org/abs/2407.14972) and explore the [code](https://github.com/msed-Ebrahimi/ARoFace).
 - **February 27, 2024:** One paper accepted at CVPR-2024. [Read the paper](https://arxiv.org/abs/2403.16937) and explore the [code](https://github.com/msed-Ebrahimi/DL2PA_CVPR24).
 - **Feb 15, 2023:** One paper accepted at IEEE Access. [Read the paper]([https://arxiv.org/abs/2407.14972](https://ieeexplore.ieee.org/document/10034761)).
