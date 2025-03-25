@@ -19,7 +19,7 @@ redirect_from:
 
 📈 🌱 I am eager to apply my experience to real-world problems and continually seek opportunities to gain insights, expand my expertise, and further enhance my skills in  computer vision and machine learning.
 
-👥 I am also passionate about assisting others on their journey in the world of Machine Learning and academia.
+%👥 I am also passionate about assisting others on their journey in the world of Machine Learning and academia.
 
 Research and Career Highlights
 ======
