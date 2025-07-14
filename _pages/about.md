@@ -23,7 +23,7 @@ redirect_from:
 Research and Career Highlights
 ======
 - **February, 2025:**  One paper accepted at CVPR-2025.
-- **November, 2024:** Accepted an internship at Mayo Clinic (Job Title: Intern Data Science AI&I - PhD (On-site)). The internship will take place from January to April 2025.
+- **November, 2024:** Accepted an internship at Mayo Clinic (Job Title: Intern Data Science AI&I - PhD (On-site)). The internship will take place from January to August 2025.
 - **October, 2024:** One paper accepted at WACV-2025. [Read the paper](https://arxiv.org/abs/2412.04748) and explore the [code](https://github.com/SaharR1372/DM_Style_matching).
 - **July, 2024:** One paper accepted at ECCV-2024. [Read the paper](https://arxiv.org/abs/2407.14972) and explore the [code](https://github.com/msed-Ebrahimi/ARoFace).
 - **February, 2024:** One paper accepted at CVPR-2024. [Read the paper](https://arxiv.org/abs/2403.16937) and explore the [code](https://github.com/msed-Ebrahimi/DL2PA_CVPR24).
