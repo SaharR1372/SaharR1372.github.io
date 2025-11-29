@@ -23,7 +23,7 @@ redirect_from:
 Research and Career Highlights
 ======
 - **August, 2025:** Accepted an internship with CCC Intelligent Solutions Inc. as a Data Science Intern, running from September to December 2025.
-- **July, 2025:** Presented a poster titled “Generative Feature Augmentation in Weakly Supervised Histopathology Image Analysis” at the 2025 AI Summit, which focused on generative AI, information retrieval, and evidence-based medicine.
+- **July, 2025:** Presented a poster titled “Generative Feature Augmentation in Weakly Supervised Histopathology Image Analysis” at the 2025 Mayo Clinic AI Summit, which focused on generative AI, information retrieval, and evidence-based medicine.
 - **February, 2025:**  One paper accepted at CVPR-2025.
 - **November, 2024:** Accepted an internship with Mayo Clinic (AI&I Data Science), which took place from January to August 2025.
 - **October, 2024:** One paper accepted at WACV-2025. [Read the paper](https://arxiv.org/abs/2412.04748) and explore the [code](https://github.com/SaharR1372/DM_Style_matching).
