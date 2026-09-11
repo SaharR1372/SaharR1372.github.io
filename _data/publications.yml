@@ -1,0 +1,100 @@
+# Publication list, newest first.
+#
+# Metadata verified against arXiv and Google Scholar. To add a paper, copy a
+# block: `me: true` bolds your name in the author list; `award` adds a badge;
+# every link key is optional and only renders when present.
+
+- title: "GIF: Generative Inspiration for Face Recognition at Scale"
+  authors: "Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Dabouei, Srinjoy Das, Jeremy M. Dawson, Nasser M. Nasrabadi"
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: 2025
+  arxiv: "https://arxiv.org/abs/2505.03012"
+
+- title: "Decomposed Distribution Matching in Dataset Condensation"
+  authors: "Sahar Rahimi Malakshan, Mohammad Saeed Ebrahimi Saadabadi, Ali Dabouei, Nasser M. Nasrabadi"
+  venue: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+  year: 2025
+  me: true
+  arxiv: "https://arxiv.org/abs/2412.04748"
+  code: "https://github.com/SaharR1372/DM_Style_matching"
+
+- title: "ARoFace: Alignment Robustness to Improve Low-Quality Face Recognition"
+  authors: "Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Dabouei, Nasser M. Nasrabadi"
+  venue: "European Conference on Computer Vision (ECCV)"
+  year: 2024
+  arxiv: "https://arxiv.org/abs/2407.14972"
+  code: "https://github.com/msed-Ebrahimi/ARoFace"
+
+- title: "Hyperspherical Classification with Dynamic Label-to-Prototype Assignment"
+  authors: "Mohammad Saeed Ebrahimi Saadabadi, Ali Dabouei, Sahar Rahimi Malakshan, Nasser M. Nasrabadi"
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: 2024
+  arxiv: "https://arxiv.org/abs/2403.16937"
+  code: "https://github.com/msed-Ebrahimi/DL2PA_CVPR24"
+
+- title: "Boosting Unconstrained Face Recognition with Targeted Style Adversary"
+  authors: "Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Seyed Rasoul Hosseini, Nasser M. Nasrabadi"
+  venue: "IEEE International Joint Conference on Biometrics (IJCB)"
+  year: 2024
+
+- title: "Deep Boosting Multi-Modal Ensemble Face Recognition with Sample-Level Weighting"
+  authors: "Sahar Rahimi Malakshan, Mohammad Saeed Ebrahimi Saadabadi, Nima Najafzadeh, Nasser M. Nasrabadi"
+  venue: "IEEE International Joint Conference on Biometrics (IJCB)"
+  year: 2023
+  me: true
+
+- title: "CCFace: Classification Consistency for Low-Resolution Face Recognition"
+  authors: "Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Hossein Kashiani, Nasser M. Nasrabadi"
+  venue: "IEEE International Joint Conference on Biometrics (IJCB)"
+  year: 2023
+
+- title: "A Quality Aware Sample-to-Sample Comparison for Face Recognition"
+  authors: "Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Zafari, Moktari Mostofa, Nasser M. Nasrabadi"
+  venue: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+  year: 2023
+  arxiv: "https://arxiv.org/abs/2306.04000"
+
+- title: "AAFace: Attribute-Aware Attentional Network for Face Recognition"
+  authors: "Niloufar Alipour Talemi, Hossein Kashiani, Sahar Rahimi Malakshan, Mohammad Saeed Ebrahimi Saadabadi, Nima Najafzadeh, et al."
+  venue: "IEEE International Conference on Image Processing (ICIP)"
+  year: 2023
+
+- title: "Face Image Quality Vector Assessment for Biometrics Applications"
+  authors: "Nima Najafzadeh, Hossein Kashiani, Mohammad Saeed Ebrahimi Saadabadi, Niloufar Alipour Talemi, Sahar Rahimi Malakshan, et al."
+  venue: "IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW)"
+  year: 2023
+
+- title: "Joint Super-Resolution and Head Pose Estimation for Extreme Low-Resolution Faces"
+  authors: "Sahar Rahimi Malakshan, Mohammad Saeed Ebrahimi Saadabadi, Moktari Mostofa, Sobhan Soleymani, Nasser M. Nasrabadi"
+  venue: "IEEE Access, vol. 11"
+  year: 2023
+  me: true
+  link: "https://ieeexplore.ieee.org/document/10034761"
+
+- title: "A Correlational Study Between Microstructural, Macrostructural and Functional Age-Related Changes in the Human Visual Cortex"
+  authors: "Sahar Rahimi Malakshan, Hamid Abrishami Moghaddam, Farveh Daneshvarfard"
+  venue: "PLoS ONE, vol. 18, no. 1"
+  year: 2023
+  me: true
+  link: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280249"
+
+- title: "Normal Development of the Brain: A Survey of Joint Structural–Functional Brain Studies"
+  authors: "Roxana Namiranian, Sahar Rahimi Malakshan, Hamid Abrishami Moghaddam, et al."
+  venue: "Reviews in the Neurosciences, vol. 33, no. 7"
+  year: 2022
+
+- title: "Pose Attention-Guided Profile-to-Frontal Face Recognition"
+  authors: "Moktari Mostofa, Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Nasser M. Nasrabadi"
+  venue: "IEEE International Joint Conference on Biometrics (IJCB)"
+  year: 2022
+
+- title: "Information Maximization for Extreme Pose Face Recognition"
+  authors: "Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Sobhan Soleymani, Moktari Mostofa, Nasser M. Nasrabadi"
+  venue: "IEEE International Joint Conference on Biometrics (IJCB)"
+  year: 2022
+
+- title: "V94.2 Industrial Gas Turbine Compressor Fouling Detection Based on System Identification Methods, Neural Networks and Experimental Data"
+  authors: "Sahar Rahimi Malekshan, Mohammad Ali Shoorehdeli"
+  venue: "Iranian Conference on Electrical Engineering (ICEE)"
+  year: 2017
+  me: true

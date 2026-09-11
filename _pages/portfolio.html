@@ -7,8 +7,32 @@ author_profile: true
 
 {% include base_path %}
 
+<p>Things I build outside of papers — research tools, and one that is purely for fun.
+Each is live and open source.</p>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% comment %}
+  Grouped by the `category` field in each _portfolio entry ("research" or
+  "personal"), ordered within a group by `order`. A project with no category
+  falls into "Other projects" rather than disappearing.
+{% endcomment %}
+
+{% assign groups = "research,personal" | split: "," %}
+{% assign headings = "Research projects,Side projects" | split: "," %}
+
+{% for g in groups %}
+  {% assign items = site.portfolio | where: "category", g | sort: "order" %}
+  {% if items.size > 0 %}
+    <h2 style="margin-top:1.4em">{{ headings[forloop.index0] }}</h2>
+    {% for post in items %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
 {% endfor %}
 
+{% assign rest = site.portfolio | where_exp: "p", "p.category == nil" %}
+{% if rest.size > 0 %}
+  <h2 style="margin-top:1.4em">Other projects</h2>
+  {% for post in rest %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}

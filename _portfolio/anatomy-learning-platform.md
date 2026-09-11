@@ -2,6 +2,8 @@
 title: "Anatomy Learning Platform"
 excerpt: "An evidence-based web app for learning human anatomy, movement, and personal-training fundamentals — 16 body regions, 51 muscles, 49 exercises, every claim cited.<br/><img src='/images/anatomy-platform.png'>"
 collection: portfolio
+category: personal
+order: 2
 ---
 
 [**▶ Browse the live demo**](https://saharr1372.github.io/AnatomyKnowledge/) &nbsp;·&nbsp; [**Source on GitHub**](https://github.com/SaharR1372/AnatomyKnowledge)

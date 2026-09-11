@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,58 @@ redirect_from:
 
 {% include base_path %}
 
+<p><a href="{{ base_path }}/files/Sahar-Rahimi-resume.pdf">Download as PDF</a></p>
+
+PhD researcher in computer vision and machine learning, with publications at
+CVPR, ECCV and WACV and industry experience at CCC Intelligent Solutions and
+Mayo Clinic. I work on representation learning, generative modeling, and
+real-world vision systems at scale.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Electrical Engineering**, West Virginia University — Morgantown, WV, USA
+  <br>Aug 2021 – present · GPA 4.0/4.0 · Advisor: [Prof. Nasser Nasrabadi](https://nassernasrabadi.faculty.wvu.edu/)
+* **M.Sc. in Biomedical Engineering**, K. N. Toosi University of Technology — Tehran, Iran
+  <br>Sep 2017 – Sep 2020 · GPA 4.0/4.0
+* **B.Sc. in Electrical Engineering**, K. N. Toosi University of Technology — Tehran, Iran
+  <br>Sep 2012 – Sep 2016 · GPA 3.5/4.0
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Data Science Intern**, CCC Intelligent Solutions — Chicago, IL, USA
+  <br>Sep 2025 – Dec 2025
+  * Flow-matching generative modeling; synthetic data generation
+  * Vehicle image classification; gradient-informed representation learning
+  * Adaptation of vision foundation models
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Data Science Intern**, Mayo Clinic (AI & Informatics) — Rochester, MN, USA
+  <br>Jan 2025 – Aug 2025
+  * Adaptation of vision foundation models to histopathology image analysis
+  * Self-supervised, weakly supervised and representation learning
+  * Cancer detection and subtyping; diffusion-based data augmentation
+  * LLM-based information extraction from unstructured clinical text
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Selected publications
+======
+{% assign selected = site.data.publications | slice: 0, 7 %}
+{% for p in selected %}
+* {% if p.arxiv %}[{{ p.title }}]({{ p.arxiv }}){% elsif p.link %}[{{ p.title }}]({{ p.link }}){% else %}{{ p.title }}{% endif %} — *{{ p.venue | split: "(" | first | strip }}*, {{ p.year }}
+{% endfor %}
+
+[See the full publication list →](/publications/)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Learning paradigms:** supervised, self-supervised, weakly supervised and unsupervised learning; deep representation and metric learning
+* **Generative modeling:** diffusion models, flow matching
+* **Computer vision:** classification, retrieval and recognition — face recognition, medical imaging, vehicle imagery
+* **Data at scale:** large-scale, long-tail and noisy real-world datasets
+* **Engineering:** distributed multi-GPU training with PyTorch; end-to-end ML pipelines; Python, PyTorch, Git
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+See [Projects](/portfolio/) for research tools and side projects I build and maintain.
+
+References
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Available upon request.

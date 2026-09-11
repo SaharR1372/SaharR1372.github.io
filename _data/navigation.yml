@@ -1,26 +1,22 @@
-# main links links
+# Main navigation. Uncomment an entry to add it back to the menu — the pages
+# for talks, teaching and blog posts were removed along with the AcademicPages
+# placeholder content, so restore those from the upstream theme if you want them.
 main:
 
-  - title: "Curriculum vitae"
-    url: /files/Sahar-Rahimi-resume.pdf
-    
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
   - title: "Projects"
     url: /portfolio/
-        
+
+  - title: "CV"
+    url: /cv/
+
+  # - title: "Talks"
+  #   url: /talks/
+
+  # - title: "Teaching"
+  #   url: /teaching/
+
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
