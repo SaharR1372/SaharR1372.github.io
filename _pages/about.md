@@ -35,3 +35,14 @@ Research and Career Highlights
 
 
 
+
+
+Projects
+======
+**[Anatomy Learning Platform](/portfolio/anatomy-learning-platform/)** — an
+evidence-based web app for learning human anatomy, movement, and
+personal-training fundamentals: 16 body regions, 51 muscles, 49 exercises, and
+38 lessons, with a citation attached to every claim. Built with Next.js,
+TypeScript, and Prisma.
+[Browse the live demo](https://saharr1372.github.io/AnatomyKnowledge/) or
+explore the [code](https://github.com/SaharR1372/AnatomyKnowledge).
