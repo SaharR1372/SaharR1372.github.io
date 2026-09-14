@@ -7,17 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-<p>Things I build outside of papers — research tools, and one that is purely for fun.
-Each is live and open source.</p>
-
 {% comment %}
-  Grouped by the `category` field in each _portfolio entry ("research" or
-  "personal"), ordered within a group by `order`. A project with no category
-  falls into "Other projects" rather than disappearing.
+  Grouped by the `category` field in each _portfolio entry, ordered within a
+  group by `order`. A project with no category falls into "Other projects".
 {% endcomment %}
 
-{% assign groups = "research,personal" | split: "," %}
-{% assign headings = "Research projects,Side projects" | split: "," %}
+{% assign groups = "research,fun" | split: "," %}
+{% assign headings = "Research projects,Fun / free-time" | split: "," %}
 
 {% for g in groups %}
   {% assign items = site.portfolio | where: "category", g | sort: "order" %}

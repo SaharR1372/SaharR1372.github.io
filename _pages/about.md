@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👩‍💻 I'm a fourth-year PhD student in the [Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, advised by [Professor Nasser Nasrabadi](https://nassernasrabadi.faculty.wvu.edu/). My work is in computer vision and deep representation learning — most recently on generative approaches and their use in medical image analysis.
+👩‍💻 I'm a PhD candidate in the [Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, advised by [Professor Nasser Nasrabadi](https://nassernasrabadi.faculty.wvu.edu/). My work is in computer vision and deep representation learning — most recently on generative approaches and their use in medical image analysis.
 
 I have published at CVPR, ECCV, WACV, IJCB and ICIP, and have completed data science internships at [Mayo Clinic](https://www.mayoclinic.org/) (AI & Informatics) and [CCC Intelligent Solutions](https://cccis.com/).
 
@@ -25,24 +25,14 @@ I have published at CVPR, ECCV, WACV, IJCB and ICIP, and have completed data sci
 
 Projects
 ======
-Things I build outside of papers. [See all projects →](/portfolio/)
+**Research** — living literature reviews I build and maintain:
 
-**[Generative Vision Atlas](/portfolio/generative-vision-atlas/)** — a living,
-structured review of modern generative vision. 204 papers organized into 35
-research lines, each defined by one explicit bet about *where generation should
-happen*: a compression code, a foundation model's features, discrete tokens, or
-raw pixels. It refuses to publish a leaderboard — every benchmark number carries
-the guidance method and training budget that produced it — and a pipeline sweeps
-arXiv every three days to keep it current.
-[Open the atlas](https://saharr1372.github.io/genai-atlas/) ·
-[code](https://github.com/SaharR1372/genai-atlas)
+- **[Generative Vision Atlas](https://saharr1372.github.io/genai-atlas/)** — 204 papers on generative vision, organized around where generation should happen. [code](https://github.com/SaharR1372/genai-atlas)
+- **[Dataset Condensation Atlas](https://saharr1372.github.io/dc-atlas/state-of-the-field/)** — 384 papers on dataset distillation, with a synthesis of the field in 2026. [code](https://github.com/SaharR1372/dc-atlas)
 
-**[Anatomy Learning Platform](/portfolio/anatomy-learning-platform/)** — a side
-project I built for myself: an evidence-based web app for learning human anatomy
-and exercise, covering 16 body regions, 51 muscles and 49 exercises, with a
-citation attached to every claim. Next.js, TypeScript and Prisma.
-[Browse the demo](https://saharr1372.github.io/AnatomyKnowledge/) ·
-[code](https://github.com/SaharR1372/AnatomyKnowledge)
+**Fun / free-time** — [Anatomy Learning Platform](https://saharr1372.github.io/AnatomyKnowledge/), a web app I built to learn anatomy and exercise. [code](https://github.com/SaharR1372/AnatomyKnowledge)
+
+[All projects →](/portfolio/)
 
 News
 ======
