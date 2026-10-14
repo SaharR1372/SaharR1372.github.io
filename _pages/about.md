@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👩‍💻 I'm a PhD candidate in the [Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, advised by [Professor Nasser Nasrabadi](https://nassernasrabadi.faculty.wvu.edu/). My work is in computer vision and deep representation learning — most recently on generative approaches and their use in medical image analysis.
+👩‍💻 I'm a PhD candidate in the [Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, advised by [Professor Nasser Nasrabadi](https://nassernasrabadi.faculty.wvu.edu/). My research focuses on computer vision and deep representation learning, with particular interests in generative models, robust visual recognition, and learning from large-scale and challenging data.
 
 I have published at CVPR, ECCV, WACV, IJCB and ICIP, and have completed data science internships at [Mayo Clinic](https://www.mayoclinic.org/) (AI & Informatics) and [CCC Intelligent Solutions](https://cccis.com/).
 
@@ -30,9 +30,8 @@ Projects
 - **[Generative Vision Atlas](https://saharr1372.github.io/genai-atlas/)** — 204 papers on generative vision, organized around where generation should happen. [code](https://github.com/SaharR1372/genai-atlas)
 - **[Dataset Condensation Atlas](https://saharr1372.github.io/dc-atlas/state-of-the-field/)** — 384 papers on dataset distillation, with a synthesis of the field in 2026. [code](https://github.com/SaharR1372/dc-atlas)
 
-**Fun / free-time** — [Anatomy Learning Platform](https://saharr1372.github.io/AnatomyKnowledge/), a web app I built to learn anatomy and exercise. [code](https://github.com/SaharR1372/AnatomyKnowledge)
+**Fun / free-time** — [Anatomy Learning Platform](https://saharr1372.github.io/AnatomyKnowledge/), a web app I built to learn anatomy and exercise.
 
-[All projects →](/portfolio/)
 
 News
 ======
